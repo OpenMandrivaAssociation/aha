@@ -2,7 +2,7 @@ Summary: Convert terminal output to HTML
 Name: aha
 License: MPLv1.1 or LGPLv2+
 Version: 0.5.1
-Release: 1
+Release: 2
 Group: Text tools
 URL: https://github.com/theZiz/aha
 Source0: %{URL}/archive/%{version}/%{name}-%{version}.tar.gz
